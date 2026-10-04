@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+download_presentation.html
+create_my_presentation.py
+make_ppt.py
+build_presentation.py
+*.npy
+run_dashboard.bat
